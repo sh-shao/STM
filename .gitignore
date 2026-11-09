@@ -1,0 +1,7 @@
+.DS_Store
+**/target/
+**/__pycache__/
+*.pyc
+output/
+data/
+my-work/
